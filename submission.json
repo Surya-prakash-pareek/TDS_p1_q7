@@ -1,0 +1,8 @@
+{
+  "prompt": "Chinese ink wash painting (Shuimo), Tang-Song dynasty style, depicting a long mountain range receding into the distance. The nearest mountain peak in the foreground is rendered in full deep black ink with strong confident brushstrokes. Each subsequent mountain peak behind it becomes progressively lighter, more diluted, more faded — the ink growing thinner and thinner with each layer. The mountains in the far distance are barely visible, almost entirely dissolved into the white paper, nearly indistinguishable from the empty sky. A faint mist fills the spaces between peaks. Vast empty white space dominates the upper portion of the composition. Minimal brushwork. Ink gradients from deep black to near-invisible pale grey. The emptiness and silence of the distant peaks communicates total loss of signal. Traditional Chinese ink wash aesthetic with visible brushstroke texture on rice paper. Asymmetric composition with peaks arranged from lower-left to upper-right fading into nothing. No text, no labels, no diagrams, no annotations, no western perspective techniques, no color, no decorative borders, no modern elements. Only black ink on white paper in varying dilutions.",
+  "model": "Gemini Image Generation",
+  "concept": "vanishing gradients",
+  "tradition_name": "Chinese ink wash painting (Shuimo)",
+  "tradition_period": "Tang-Song dynasty, 618–1279 CE",
+  "tradition_approach": "Targeted minimal brushwork, ink dilution gradients from deep black to near-invisible grey, vast empty white space as composition, asymmetric mountain arrangement, and rice paper texture — the natural fading of ink into mist structurally mirrors gradient signal vanishing through deep network layers."
+}
